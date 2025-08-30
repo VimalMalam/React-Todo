@@ -1,2 +1,2 @@
-# React-Todo
-React-based Todo List application with local storage support.
+# My Todo App
+This project is created with ReactJS.
